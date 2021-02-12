@@ -1,15 +1,17 @@
 ### 🌱 I’m currently learning at BeCode
-- Javascript
-  - Node.js
-  - React
-  - Vue.js
-- PHP
-  - Laravel
-- HTML,CSS,Bootstrap(Responsive),...
-
 <details open>
-  <summary>Technologies</summary>
-  <p>...</p>
+  <summary>Javascript</summary>
+    <p>Node.js</p>
+    <p>React</p>
+    <p>Vue.js</p>
+  <summary>PHP</summary>
+    <p>Laravel</p>
+  <summary>En vrac</summary>
+    <p>HTML</p>
+    <p>CSS</p>
+    <p>Bootstrap</p>
+    <p>Markdown</p>
+    <p>...</p>
 </details>
 
 
