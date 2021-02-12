@@ -1,9 +1,9 @@
 ### 🌱 I’m currently learning at BeCode
 <details close>
   <summary>Javascript</summary>
-    -<p>Node.js</p>
-    -<p>React</p>
-    -<p>Vue.js</p>
+    <p>- Node.js</p>
+    <p>- React</p>
+    <p>- Vue.js</p>
 </details>
 <details close>
   <summary>PHP</summary>
