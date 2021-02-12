@@ -1,9 +1,11 @@
 ### 🌱 I’m currently learning at BeCode
 - Javascript
-  - Node.JS
+  - Node.js
+  - React
+  - Vue.js
 - PHP
   - Laravel
-- Vue.JS
+- HTML,CSS,...
 
 <!--
 **DelahayJoann/DelahayJoann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
