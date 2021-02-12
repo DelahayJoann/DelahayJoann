@@ -7,14 +7,14 @@
 </details>
 <details close>
   <summary>PHP</summary>
-    <p>Laravel</p>
+    <p>- Laravel</p>
 </details>
 <details close>
   <summary>En vrac</summary>
-    <p>HTML</p>
-    <p>CSS</p>
-    <p>Bootstrap</p>
-    <p>Markdown</p>
+    <p>- HTML</p>
+    <p>- CSS</p>
+    <p>- Bootstrap</p>
+    <p>- Markdown</p>
     <p>...</p>
 </details>
 
