@@ -7,6 +7,12 @@
   - Laravel
 - HTML,CSS,Bootstrap(Responsive),...
 
+<details open>
+  <summary>Technologies</summary>
+  <p>...</p>
+</details>
+
+
 <!--
 **DelahayJoann/DelahayJoann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
