@@ -5,7 +5,7 @@
   - Vue.js
 - PHP
   - Laravel
-- HTML,CSS,...
+- HTML,CSS,Bootstrap(Responsive),...
 
 <!--
 **DelahayJoann/DelahayJoann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
