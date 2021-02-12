@@ -1,15 +1,15 @@
 ### 🌱 I’m currently learning at BeCode
-<details open>
+<details close>
   <summary>Javascript</summary>
     <p>Node.js</p>
     <p>React</p>
     <p>Vue.js</p>
 </details>
-<details open>
+<details close>
   <summary>PHP</summary>
     <p>Laravel</p>
 </details>
-<details open>
+<details close>
   <summary>En vrac</summary>
     <p>HTML</p>
     <p>CSS</p>
