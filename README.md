@@ -4,8 +4,12 @@
     <p>Node.js</p>
     <p>React</p>
     <p>Vue.js</p>
+</details>
+<details open>
   <summary>PHP</summary>
     <p>Laravel</p>
+</details>
+<details open>
   <summary>En vrac</summary>
     <p>HTML</p>
     <p>CSS</p>
@@ -13,7 +17,6 @@
     <p>Markdown</p>
     <p>...</p>
 </details>
-
 
 <!--
 **DelahayJoann/DelahayJoann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
